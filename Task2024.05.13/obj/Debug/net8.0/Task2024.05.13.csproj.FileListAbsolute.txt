@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\bin\Debug\net8.0\Task2024.05.13.exe
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\bin\Debug\net8.0\Task2024.05.13.deps.json
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\bin\Debug\net8.0\Task2024.05.13.runtimeconfig.json
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\bin\Debug\net8.0\Task2024.05.13.dll
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\bin\Debug\net8.0\Task2024.05.13.pdb
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\obj\Debug\net8.0\Task2024.05.13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\obj\Debug\net8.0\Task2024.05.13.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\obj\Debug\net8.0\Task2024.05.13.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\obj\Debug\net8.0\Task2024.05.13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\obj\Debug\net8.0\Task2024.05.13.dll
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\obj\Debug\net8.0\refint\Task2024.05.13.dll
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\obj\Debug\net8.0\Task2024.05.13.pdb
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\obj\Debug\net8.0\Task2024.05.13.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Task 1\Flowchart,Switch case, While, Do-While\Task2024.05.13\obj\Debug\net8.0\ref\Task2024.05.13.dll
